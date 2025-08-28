@@ -1,3 +1,7 @@
+<img src="banner.png" alt="Lisa Drewsen Banner" style="width:100%; max-height:50%; object-fit:cover;" />
+
+
+
 # Hei, I'm Lisa 👋
 
 Trying cool things. Learning as I go. Usually caffeinated.
