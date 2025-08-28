@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Lisa Drewsen Banner" style="width:100%; max-height:50%; object-fit:cover;" />
+<img src="banner2.jpeg" alt="Lisa Drewsen Banner" style="width:100%; max-height:50%; object-fit:cover;" />
 
 
 
